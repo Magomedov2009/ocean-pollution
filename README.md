@@ -1,1 +1,66 @@
 # ocean-pollution
+<html>
+    <body>
+    <head>
+    </head>
+        <header>
+            <nav>
+                <img class="home_logo" src="https://cdn-icons-png.flaticon.com/512/921/921490.png" width="40px">
+                <a class="proj_nav" href="#problem">Проблема загрязнения</a>
+                <a class="newproj_nav" href="#help"> Помощь океанам</a>
+            </nav>
+        </header>
+        <main>
+            <h1>Типы загрязнения: </h1>
+            <section class="garant">
+                <figure>
+                    <img src="https://cdn-icons-png.flaticon.com/512/2750/2750988.png" width="100px">
+                    <figcaption>Физические: мусор, пластик и т.д.</figcaption>
+                </figure>
+                
+                <figure>
+                <img src="https://cdn-icons-png.flaticon.com/512/106/106206.png" width="100px">
+                <figcaption>Радиоактивное (опасные отходы)</figcaption>
+                </figure>
+                
+                <figure>
+                    <img class="" src="https://cdn-icons-png.flaticon.com/512/2623/2623836.png" width="100px">
+                    <figcaption>Нефтяное</figcaption>
+                </figure>
+            </section>
+
+
+            <section>
+                <h2 id="problem">Как выглядит океан сейчас:</h2>
+                <center>
+                <img src="https://naked-science.ru/wp-content/uploads/2017/07/field_image_garbagepatch.jpg" width="400px" height="250px">
+                <img src="https://mf.b37mrtl.ru/russian/images/2018.07/article/5b59bf36183561cf778b4585.jpg" width="400px" height="250px">
+                <img src="https://plus-one.ru/files/image_2022/04/kak-1-4-2-.jpg" width="400px" height="250px">
+                 <img src="https://avatars.dzeninfra.ru/get-zen_doc/1368767/pub_5ba6a90e8ad01000a93235c9_5ba6de56fdae1600af4d00b9/scale_1200" width="400px" height="250px">
+                </center>
+               
+                <h2>Мировая проблема: </h2>
+                <p>Мировой океан — огромная, но очень хрупкая система. Это стало особенно очевидно в последние десятилетия, когда загрязнение океанских вод достигло невиданных прежде масштабов. А между тем от состояния воды зависит не только благополучие экосистем — сама человеческая цивилизация во многом зависит от Мирового океана: он влияет на погоду и климат всей планеты. Именно поэтому загрязнение Мирового океана стало одной из самых серьезных экологических проблем современности. Расскажем о причинах, последствиях и возможных решениях экологических проблем Мирового океана.</p>
+                <h1 id="help">Как мы можем помочь:</h1>
+                <p> Все это не может не вызывать беспокойства, поэтому многие страны давно предпринимают попытки исправить ситуацию или хотя бы максимально снизить вред, который человеческая деятельность наносит Мировому океану. </p>
+
+                <p>Например, во Франции был принят закон, регламентирующий расположение точек забора и сброса воды для фабрик и заводов, морское побережье регулярно патрулируют вертолеты, задача которых — следить за сбросами танкеров. Высокотехнологичное и эффективное решение проблемы сбросов нашли в Швеции — емкости каждого танкера метят особыми изотопами, поэтому ученые, анализирующие нефтяные пятна, всегда могут установить, с какого конкретно судна был произведен сброс.</p>   
+
+                <p>По инициативе ООН было подписано немало важных международных соглашений, регламентирующих использование ресурсов Мирового океана, нефтедобычи и пр. Пожалуй, наибольшую известность получила Конвенция ООН по морскому праву, подписанная в 1982 году большинством стран. Существуют также различные мировые и региональные конвенции: Конвенция по предотвращению загрязнения моря сбросами отходов и других материалов от 1972 года, Международная конвенция об учреждении международного фонда для компенсации ущерба от загрязнения нефтью 1971 и 1974 годов, Международная конвенция об ответственности и компенсации за ущерб в связи с перевозкой морем опасных и вредных веществ от 1996 года и другие.
+            </p>
+            <center>
+                <img src="https://plus-one.ru/files/image_2022/04/kak-1-4-7-.jpg" width="800px">
+                <img src="https://plus-one.ru/files/image_2022/04/kak-1-4-3-.jpg" width="800px">
+                <img src="https://vd-tv.ru/wp-content/uploads/2019/11/problema-zagrjaznenija-okeana-7057ba9.jpg" width="800px">
+                <img src="https://musorniy.ru/wp-content/uploads/2018/12/5231791_original.jpg" width="800px">
+            </center>
+            </section>
+        </main>
+        <footer>
+            <p>Горячая линия: 8-800-555-35-35</p>
+            <p>Почта: info@greenpeace.ru</p>
+            <a href="https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwiCw8-IiqL-AhU5AhAIHU1uAk4QFnoECA4QAQ&url=https%3A%2F%2Fgreenpeace.ru%2F&usg=AOvVaw1j5FAFbvstGVemgYooh5eW"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Greenpeace_logo.svg/1280px-Greenpeace_logo.svg.png" width="150px"></a>
+        </footer>
+    </body>
+
+</html>
