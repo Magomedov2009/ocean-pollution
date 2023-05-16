@@ -3,6 +3,8 @@
     <body>
     <head>
     </head>
+        <title>Загрязнение океана</title>
+        <link rel="stylesheet" href="style.css"/>
         <header>
             <nav>
                 <img class="home_logo" src="https://cdn-icons-png.flaticon.com/512/921/921490.png" width="40px">
